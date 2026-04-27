@@ -1,0 +1,1005 @@
+9.2418 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+9.2429 	INFO 	Loaded monitor calibration from ['2025_09_06 19:29']
+9.2721 	WARNING 	Requested an unavailable screen number - using first available.
+10.2959 	INFO 	Using renderer 'Intel(R) Iris(R) Xe Graphics' for graphics
+10.2959 	INFO 	OpenGL version supported by driver is 4..
+10.5261 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000029E3B8FD870>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000029E3B8FD8D0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000029E3B9E9A80>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(560.0), np.float64(240.0)], screen=1, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.5262 	EXP 	window1: backgroundImage = ''
+10.5262 	EXP 	window1: backgroundFit = 'none'
+10.5701 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5816 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.5947 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6067 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6190 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6307 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6548 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6663 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6781 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.6898 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7033 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7152 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7272 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7387 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7627 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7745 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.7873 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8006 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8138 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8141 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.8293 	DEBUG 	Upload of Texture Font fontname complete
+10.8615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8742 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8864 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.8867 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.9006 	DEBUG 	Upload of Texture Font fontname complete
+10.9033 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+10.9034 	EXP 	window1: recordFrameIntervals = False
+11.1102 	EXP 	window1: recordFrameIntervals = True
+11.2929 	EXP 	Screen (1) actual frame rate measured at 60.10Hz
+11.2930 	EXP 	window1: recordFrameIntervals = False
+11.3205 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3340 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3479 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3605 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3722 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3855 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.3976 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4096 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4220 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4371 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+11.4375 	DEBUG 	Uploading Texture Font fontname to graphics card
+11.4381 	DEBUG 	Upload of Texture Font fontname complete
+11.5322 	INFO 	keyboard.Keyboard is using ptb backend.
+11.5324 	INFO 	keyboard.Keyboard is using ptb backend.
+11.5324 	INFO 	keyboard.Keyboard is using ptb backend.
+11.5325 	EXP 	Wisconsin Card Sorting Task: status = STARTED
+12.3746 	EXP 	Created text_init = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text_init', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Initialiser...', units='height', win=Window(...), wrapWidth=1)
+12.4046 	EXP 	Created instructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='instructions', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.4204 	EXP 	Created example_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.04), italic=False, languageStyle='LTR', name='example_text', opacity=1, ori=0, pos=array([0. , 0.4]), rgb=UNKNOWN, text='For example, you may see a screen like this:', units='height', win=Window(...), wrapWidth=1)
+12.4211 	WARNING 	Requested image 'example' not found but similar filename 'example.jpg' exists. This will be used instead but changing the filename is advised.
+12.4995 	EXP 	Created example_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='example', interpolate=True, mask=None, maskParams=None, name='example_image', opacity=1, ori=0.0, pos=array([0.  , 0.15]), size=array([0.7, 0.4]), texRes=128, units='height', win=Window(...))
+12.5228 	EXP 	Created example_text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.04), italic=False, languageStyle='LTR', name='example_text_2', opacity=1, ori=0, pos=array([ 0.  , -0.25]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+12.5266 	EXP 	Created fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='fixation', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+12.5506 	EXP 	Created one_red_dot = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/1redDot.JPG', interpolate=True, mask=None, maskParams=None, name='one_red_dot', opacity=1, ori=0.0, pos=array([-0.45,  0.25]), size=array([0.25, 0.25]), texRes=128, units='height', win=Window(...))
+12.5726 	EXP 	Created two_yellow_triangles = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/2yellowTriangles.JPG', interpolate=True, mask=None, maskParams=None, name='two_yellow_triangles', opacity=1, ori=0.0, pos=array([-0.15,  0.25]), size=array([0.25, 0.25]), texRes=128, units='height', win=Window(...))
+12.5938 	EXP 	Created three_green_crosses = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/3greenCrosses.JPG', interpolate=True, mask=None, maskParams=None, name='three_green_crosses', opacity=1, ori=0.0, pos=array([0.15, 0.25]), size=array([0.25, 0.25]), texRes=128, units='height', win=Window(...))
+12.6157 	EXP 	Created four_blue_stars = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='images/4blueStars.JPG', interpolate=True, mask=None, maskParams=None, name='four_blue_stars', opacity=1, ori=0.0, pos=array([0.45, 0.25]), size=array([0.25, 0.25]), texRes=128, units='height', win=Window(...))
+12.6299 	EXP 	Created trial_card = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, draggable=False, flipHoriz=np.False_, flipVert=np.False_, image='default.png', interpolate=True, mask=None, maskParams=None, name='trial_card', opacity=1, ori=0.0, pos=array([ 0. , -0.2]), size=array([0.25, 0.25]), texRes=128, units='height', win=Window(...))
+12.6307 	EXP 	Created feedback_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='feedback_text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+12.6399 	EXP 	Created thank_you = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='thank_you', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0352 	EXP 	text_init: autoDraw = True
+1.0176 	INFO 	Keyboard events cleared
+1.0176 	EXP 	text_init: autoDraw = False
+1.0176 	EXP 	instructions: autoDraw = True
+28.6458 	EXP 	Device response: <KeyPress from None: t=28.37050889999955, value=space, duration=None>
+28.6459 	EXP 	Device response: <KeyPress from None: t=28.37050889999955, value=space, duration=0.0437413000036031>
+28.6499 	DATA 	Keypress: space
+28.6612 	INFO 	Keyboard events cleared
+28.6611 	EXP 	instructions: autoDraw = False
+28.6611 	EXP 	example_text: autoDraw = True
+28.6611 	EXP 	example_image: autoDraw = True
+28.6611 	EXP 	example_text_2: autoDraw = True
+33.2599 	EXP 	Device response: <KeyPress from None: t=33.248179700021865, value=space, duration=None>
+33.2646 	DEBUG 	Read excel file with openpyxl: chooseRule.xlsx
+33.2647 	EXP 	Imported chooseRule.xlsx as conditions, 3 conditions, 1 params
+33.2650 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'condition_file': 'shape.xlsx', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+33.3416 	DEBUG 	Read excel file with openpyxl: shape.xlsx
+33.3439 	EXP 	Imported shape.xlsx as conditions, 64 conditions, 3 params
+33.3444 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'rule': 'shape', 'card': 'images/3redCrosses.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+33.3706 	DATA 	Keypress: space
+33.3721 	EXP 	Device response: <KeyPress from None: t=33.248179700021865, value=space, duration=0.04994149997946806>
+33.3975 	EXP 	example_text: autoDraw = False
+33.3975 	EXP 	example_image: autoDraw = False
+33.3975 	EXP 	example_text_2: autoDraw = False
+33.3975 	EXP 	trial_card: image = 'images/3redCrosses.JPG'
+33.3975 	EXP 	fixation: autoDraw = True
+33.3975 	EXP 	one_red_dot: autoDraw = True
+33.3975 	EXP 	two_yellow_triangles: autoDraw = True
+33.3975 	EXP 	three_green_crosses: autoDraw = True
+33.3975 	EXP 	four_blue_stars: autoDraw = True
+34.2739 	EXP 	trial_card: autoDraw = True
+34.4069 	EXP 	fixation: autoDraw = False
+36.6256 	DATA 	Mouse: Left button down, pos=(127,450)
+36.6392 	EXP 	fixation: autoDraw = False
+36.6392 	EXP 	one_red_dot: autoDraw = False
+36.6392 	EXP 	two_yellow_triangles: autoDraw = False
+36.6392 	EXP 	three_green_crosses: autoDraw = False
+36.6392 	EXP 	four_blue_stars: autoDraw = False
+36.6392 	EXP 	trial_card: autoDraw = False
+36.6392 	EXP 	feedback_text: height = np.float64(0.05)
+36.6392 	EXP 	feedback_text: height = np.float64(0.05)
+36.6392 	EXP 	feedback_text: height = np.float64(0.05)
+36.6392 	EXP 	feedback_text: text = 'Incorrect'
+36.6392 	EXP 	feedback_text: autoDraw = True
+36.7454 	DATA 	Mouse:  Left button up, pos=(127,450)
+37.6402 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'rule': 'shape', 'card': 'images/4greenDots.jpg', 'corrAns': 'images/1redDot.JPG', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+37.6707 	EXP 	feedback_text: autoDraw = False
+37.6707 	EXP 	trial_card: image = 'images/4greenDots.jpg'
+37.6707 	EXP 	fixation: autoDraw = True
+37.6707 	EXP 	one_red_dot: autoDraw = True
+37.6707 	EXP 	two_yellow_triangles: autoDraw = True
+37.6707 	EXP 	three_green_crosses: autoDraw = True
+37.6707 	EXP 	four_blue_stars: autoDraw = True
+38.6371 	EXP 	trial_card: autoDraw = True
+38.6704 	EXP 	fixation: autoDraw = False
+40.2559 	DATA 	Mouse: Left button down, pos=(497,453)
+40.2691 	EXP 	fixation: autoDraw = False
+40.2691 	EXP 	one_red_dot: autoDraw = False
+40.2691 	EXP 	two_yellow_triangles: autoDraw = False
+40.2691 	EXP 	three_green_crosses: autoDraw = False
+40.2691 	EXP 	four_blue_stars: autoDraw = False
+40.2691 	EXP 	trial_card: autoDraw = False
+40.2691 	EXP 	feedback_text: text = 'Incorrect'
+40.2691 	EXP 	feedback_text: autoDraw = True
+40.3559 	DATA 	Mouse:  Left button up, pos=(497,453)
+41.2711 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'rule': 'shape', 'card': 'images/1yellowCross.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+41.3011 	EXP 	feedback_text: autoDraw = False
+41.3011 	EXP 	trial_card: image = 'images/1yellowCross.JPG'
+41.3011 	EXP 	fixation: autoDraw = True
+41.3011 	EXP 	one_red_dot: autoDraw = True
+41.3011 	EXP 	two_yellow_triangles: autoDraw = True
+41.3011 	EXP 	three_green_crosses: autoDraw = True
+41.3011 	EXP 	four_blue_stars: autoDraw = True
+42.2673 	EXP 	trial_card: autoDraw = True
+42.3008 	EXP 	fixation: autoDraw = False
+44.7853 	DATA 	Mouse: Left button down, pos=(482,464)
+44.7996 	EXP 	fixation: autoDraw = False
+44.7996 	EXP 	one_red_dot: autoDraw = False
+44.7996 	EXP 	two_yellow_triangles: autoDraw = False
+44.7996 	EXP 	three_green_crosses: autoDraw = False
+44.7996 	EXP 	four_blue_stars: autoDraw = False
+44.7996 	EXP 	trial_card: autoDraw = False
+44.7996 	EXP 	feedback_text: height = np.float64(0.05)
+44.7996 	EXP 	feedback_text: height = np.float64(0.05)
+44.7996 	EXP 	feedback_text: height = np.float64(0.05)
+44.7996 	EXP 	feedback_text: text = 'Correct! '
+44.7996 	EXP 	feedback_text: autoDraw = True
+44.8518 	DATA 	Mouse:  Left button up, pos=(482,464)
+45.7996 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'rule': 'shape', 'card': 'images/1redStar.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+45.8306 	EXP 	feedback_text: autoDraw = False
+45.8306 	EXP 	trial_card: image = 'images/1redStar.JPG'
+45.8306 	EXP 	fixation: autoDraw = True
+45.8306 	EXP 	one_red_dot: autoDraw = True
+45.8306 	EXP 	two_yellow_triangles: autoDraw = True
+45.8306 	EXP 	three_green_crosses: autoDraw = True
+45.8306 	EXP 	four_blue_stars: autoDraw = True
+46.7969 	EXP 	trial_card: autoDraw = True
+46.8303 	EXP 	fixation: autoDraw = False
+48.0150 	DATA 	Mouse: Left button down, pos=(678,441)
+48.0300 	EXP 	fixation: autoDraw = False
+48.0300 	EXP 	one_red_dot: autoDraw = False
+48.0300 	EXP 	two_yellow_triangles: autoDraw = False
+48.0300 	EXP 	three_green_crosses: autoDraw = False
+48.0300 	EXP 	four_blue_stars: autoDraw = False
+48.0300 	EXP 	trial_card: autoDraw = False
+48.0300 	EXP 	feedback_text: text = 'Correct! '
+48.0300 	EXP 	feedback_text: autoDraw = True
+48.1494 	DATA 	Mouse:  Left button up, pos=(678,441)
+49.0304 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'rule': 'shape', 'card': 'images/3yellowCrosses.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+49.0616 	EXP 	feedback_text: autoDraw = False
+49.0616 	EXP 	trial_card: image = 'images/3yellowCrosses.JPG'
+49.0616 	EXP 	fixation: autoDraw = True
+49.0616 	EXP 	one_red_dot: autoDraw = True
+49.0616 	EXP 	two_yellow_triangles: autoDraw = True
+49.0616 	EXP 	three_green_crosses: autoDraw = True
+49.0616 	EXP 	four_blue_stars: autoDraw = True
+50.0273 	EXP 	trial_card: autoDraw = True
+50.0611 	EXP 	fixation: autoDraw = False
+51.1460 	DATA 	Mouse: Left button down, pos=(501,442)
+51.1600 	EXP 	fixation: autoDraw = False
+51.1600 	EXP 	one_red_dot: autoDraw = False
+51.1600 	EXP 	two_yellow_triangles: autoDraw = False
+51.1600 	EXP 	three_green_crosses: autoDraw = False
+51.1600 	EXP 	four_blue_stars: autoDraw = False
+51.1600 	EXP 	trial_card: autoDraw = False
+51.1600 	EXP 	feedback_text: text = 'Correct! '
+51.1600 	EXP 	feedback_text: autoDraw = True
+51.2626 	DATA 	Mouse:  Left button up, pos=(501,442)
+52.1610 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'rule': 'shape', 'card': 'images/1yellowStar.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+52.1922 	EXP 	feedback_text: autoDraw = False
+52.1922 	EXP 	trial_card: image = 'images/1yellowStar.JPG'
+52.1922 	EXP 	fixation: autoDraw = True
+52.1922 	EXP 	one_red_dot: autoDraw = True
+52.1922 	EXP 	two_yellow_triangles: autoDraw = True
+52.1922 	EXP 	three_green_crosses: autoDraw = True
+52.1922 	EXP 	four_blue_stars: autoDraw = True
+53.1584 	EXP 	trial_card: autoDraw = True
+53.1922 	EXP 	fixation: autoDraw = False
+54.2109 	DATA 	Mouse: Left button down, pos=(675,459)
+54.2255 	EXP 	fixation: autoDraw = False
+54.2255 	EXP 	one_red_dot: autoDraw = False
+54.2255 	EXP 	two_yellow_triangles: autoDraw = False
+54.2255 	EXP 	three_green_crosses: autoDraw = False
+54.2255 	EXP 	four_blue_stars: autoDraw = False
+54.2255 	EXP 	trial_card: autoDraw = False
+54.2255 	EXP 	feedback_text: text = 'Correct! '
+54.2255 	EXP 	feedback_text: autoDraw = True
+54.3105 	DATA 	Mouse:  Left button up, pos=(675,459)
+55.2254 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'rule': 'shape', 'card': 'images/1greenCross.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+55.2562 	EXP 	feedback_text: autoDraw = False
+55.2562 	EXP 	trial_card: image = 'images/1greenCross.JPG'
+55.2562 	EXP 	fixation: autoDraw = True
+55.2562 	EXP 	one_red_dot: autoDraw = True
+55.2562 	EXP 	two_yellow_triangles: autoDraw = True
+55.2562 	EXP 	three_green_crosses: autoDraw = True
+55.2562 	EXP 	four_blue_stars: autoDraw = True
+56.2231 	EXP 	trial_card: autoDraw = True
+56.2560 	EXP 	fixation: autoDraw = False
+57.1911 	DATA 	Mouse: Left button down, pos=(511,454)
+57.2050 	EXP 	fixation: autoDraw = False
+57.2050 	EXP 	one_red_dot: autoDraw = False
+57.2050 	EXP 	two_yellow_triangles: autoDraw = False
+57.2050 	EXP 	three_green_crosses: autoDraw = False
+57.2050 	EXP 	four_blue_stars: autoDraw = False
+57.2050 	EXP 	trial_card: autoDraw = False
+57.2050 	EXP 	feedback_text: text = 'Correct! '
+57.2050 	EXP 	feedback_text: autoDraw = True
+57.2955 	DATA 	Mouse:  Left button up, pos=(511,454)
+58.1927 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'condition_file': 'number.xlsx', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+58.2650 	DEBUG 	Read excel file with openpyxl: number.xlsx
+58.2683 	EXP 	Imported number.xlsx as conditions, 64 conditions, 3 params
+58.2690 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'rule': 'number', 'card': 'images/4redDots.jpg', 'corrAns': 'images/4blueStars.JPG', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+58.2873 	EXP 	feedback_text: autoDraw = False
+58.2873 	EXP 	feedback_text: autoDraw = False
+58.2873 	EXP 	trial_card: image = 'images/4redDots.jpg'
+58.2873 	EXP 	fixation: autoDraw = True
+58.2873 	EXP 	one_red_dot: autoDraw = True
+58.2873 	EXP 	two_yellow_triangles: autoDraw = True
+58.2873 	EXP 	three_green_crosses: autoDraw = True
+58.2873 	EXP 	four_blue_stars: autoDraw = True
+59.2041 	EXP 	trial_card: autoDraw = True
+59.2874 	EXP 	fixation: autoDraw = False
+60.3556 	DATA 	Mouse: Left button down, pos=(144,459)
+60.3693 	EXP 	fixation: autoDraw = False
+60.3693 	EXP 	one_red_dot: autoDraw = False
+60.3693 	EXP 	two_yellow_triangles: autoDraw = False
+60.3693 	EXP 	three_green_crosses: autoDraw = False
+60.3693 	EXP 	four_blue_stars: autoDraw = False
+60.3693 	EXP 	trial_card: autoDraw = False
+60.3693 	EXP 	feedback_text: height = np.float64(0.05)
+60.3693 	EXP 	feedback_text: height = np.float64(0.05)
+60.3693 	EXP 	feedback_text: height = np.float64(0.05)
+60.3693 	EXP 	feedback_text: text = 'Incorrect'
+60.3693 	EXP 	feedback_text: autoDraw = True
+60.4554 	DATA 	Mouse:  Left button up, pos=(144,459)
+61.3699 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'rule': 'number', 'card': 'images/4redCrosses.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+61.4011 	EXP 	feedback_text: autoDraw = False
+61.4011 	EXP 	trial_card: image = 'images/4redCrosses.JPG'
+61.4011 	EXP 	fixation: autoDraw = True
+61.4011 	EXP 	one_red_dot: autoDraw = True
+61.4011 	EXP 	two_yellow_triangles: autoDraw = True
+61.4011 	EXP 	three_green_crosses: autoDraw = True
+61.4011 	EXP 	four_blue_stars: autoDraw = True
+62.3672 	EXP 	trial_card: autoDraw = True
+62.4007 	EXP 	fixation: autoDraw = False
+63.4858 	DATA 	Mouse: Left button down, pos=(698,432)
+63.5012 	EXP 	fixation: autoDraw = False
+63.5012 	EXP 	one_red_dot: autoDraw = False
+63.5012 	EXP 	two_yellow_triangles: autoDraw = False
+63.5012 	EXP 	three_green_crosses: autoDraw = False
+63.5012 	EXP 	four_blue_stars: autoDraw = False
+63.5012 	EXP 	trial_card: autoDraw = False
+63.5012 	EXP 	feedback_text: height = np.float64(0.05)
+63.5012 	EXP 	feedback_text: height = np.float64(0.05)
+63.5012 	EXP 	feedback_text: height = np.float64(0.05)
+63.5012 	EXP 	feedback_text: text = 'Correct! '
+63.5012 	EXP 	feedback_text: autoDraw = True
+63.5714 	DATA 	Mouse:  Left button up, pos=(698,432)
+64.5023 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'rule': 'number', 'card': 'images/2yellowStars.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+64.5320 	EXP 	feedback_text: autoDraw = False
+64.5320 	EXP 	trial_card: image = 'images/2yellowStars.JPG'
+64.5320 	EXP 	fixation: autoDraw = True
+64.5320 	EXP 	one_red_dot: autoDraw = True
+64.5320 	EXP 	two_yellow_triangles: autoDraw = True
+64.5320 	EXP 	three_green_crosses: autoDraw = True
+64.5320 	EXP 	four_blue_stars: autoDraw = True
+65.4990 	EXP 	trial_card: autoDraw = True
+65.5311 	EXP 	fixation: autoDraw = False
+66.5179 	DATA 	Mouse: Left button down, pos=(318,439)
+66.5319 	EXP 	fixation: autoDraw = False
+66.5319 	EXP 	one_red_dot: autoDraw = False
+66.5319 	EXP 	two_yellow_triangles: autoDraw = False
+66.5319 	EXP 	three_green_crosses: autoDraw = False
+66.5319 	EXP 	four_blue_stars: autoDraw = False
+66.5319 	EXP 	trial_card: autoDraw = False
+66.5319 	EXP 	feedback_text: text = 'Correct! '
+66.5319 	EXP 	feedback_text: autoDraw = True
+66.6013 	DATA 	Mouse:  Left button up, pos=(318,439)
+67.5314 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'rule': 'number', 'card': 'images/3greenTriangles.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+67.5627 	EXP 	feedback_text: autoDraw = False
+67.5627 	EXP 	trial_card: image = 'images/3greenTriangles.JPG'
+67.5627 	EXP 	fixation: autoDraw = True
+67.5627 	EXP 	one_red_dot: autoDraw = True
+67.5627 	EXP 	two_yellow_triangles: autoDraw = True
+67.5627 	EXP 	three_green_crosses: autoDraw = True
+67.5627 	EXP 	four_blue_stars: autoDraw = True
+68.5293 	EXP 	trial_card: autoDraw = True
+68.5634 	EXP 	fixation: autoDraw = False
+69.7636 	DATA 	Mouse: Left button down, pos=(493,439)
+69.7785 	EXP 	fixation: autoDraw = False
+69.7785 	EXP 	one_red_dot: autoDraw = False
+69.7785 	EXP 	two_yellow_triangles: autoDraw = False
+69.7785 	EXP 	three_green_crosses: autoDraw = False
+69.7785 	EXP 	four_blue_stars: autoDraw = False
+69.7785 	EXP 	trial_card: autoDraw = False
+69.7785 	EXP 	feedback_text: text = 'Correct! '
+69.7785 	EXP 	feedback_text: autoDraw = True
+69.8485 	DATA 	Mouse:  Left button up, pos=(493,439)
+70.7788 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'rule': 'number', 'card': 'images/3redTriangles.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+70.8100 	EXP 	feedback_text: autoDraw = False
+70.8100 	EXP 	trial_card: image = 'images/3redTriangles.JPG'
+70.8100 	EXP 	fixation: autoDraw = True
+70.8100 	EXP 	one_red_dot: autoDraw = True
+70.8100 	EXP 	two_yellow_triangles: autoDraw = True
+70.8100 	EXP 	three_green_crosses: autoDraw = True
+70.8100 	EXP 	four_blue_stars: autoDraw = True
+71.7763 	EXP 	trial_card: autoDraw = True
+71.8103 	EXP 	fixation: autoDraw = False
+72.9325 	DATA 	Mouse: Left button down, pos=(455,413)
+72.9425 	EXP 	fixation: autoDraw = False
+72.9425 	EXP 	one_red_dot: autoDraw = False
+72.9425 	EXP 	two_yellow_triangles: autoDraw = False
+72.9425 	EXP 	three_green_crosses: autoDraw = False
+72.9425 	EXP 	four_blue_stars: autoDraw = False
+72.9425 	EXP 	trial_card: autoDraw = False
+72.9425 	EXP 	feedback_text: text = 'Correct! '
+72.9425 	EXP 	feedback_text: autoDraw = True
+73.0287 	DATA 	Mouse:  Left button up, pos=(455,413)
+73.9431 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'rule': 'number', 'card': 'images/3blueCrosses.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+73.9743 	EXP 	feedback_text: autoDraw = False
+73.9743 	EXP 	trial_card: image = 'images/3blueCrosses.JPG'
+73.9743 	EXP 	fixation: autoDraw = True
+73.9743 	EXP 	one_red_dot: autoDraw = True
+73.9743 	EXP 	two_yellow_triangles: autoDraw = True
+73.9743 	EXP 	three_green_crosses: autoDraw = True
+73.9743 	EXP 	four_blue_stars: autoDraw = True
+74.9407 	EXP 	trial_card: autoDraw = True
+74.9737 	EXP 	fixation: autoDraw = False
+76.1922 	DATA 	Mouse: Left button down, pos=(485,443)
+76.2067 	EXP 	fixation: autoDraw = False
+76.2067 	EXP 	one_red_dot: autoDraw = False
+76.2067 	EXP 	two_yellow_triangles: autoDraw = False
+76.2067 	EXP 	three_green_crosses: autoDraw = False
+76.2067 	EXP 	four_blue_stars: autoDraw = False
+76.2067 	EXP 	trial_card: autoDraw = False
+76.2067 	EXP 	feedback_text: text = 'Correct! '
+76.2067 	EXP 	feedback_text: autoDraw = True
+76.2793 	DATA 	Mouse:  Left button up, pos=(485,443)
+77.2089 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'rule': 'number', 'card': 'images/3greenStars.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+77.2385 	EXP 	feedback_text: autoDraw = False
+77.2385 	EXP 	trial_card: image = 'images/3greenStars.JPG'
+77.2385 	EXP 	fixation: autoDraw = True
+77.2385 	EXP 	one_red_dot: autoDraw = True
+77.2385 	EXP 	two_yellow_triangles: autoDraw = True
+77.2385 	EXP 	three_green_crosses: autoDraw = True
+77.2385 	EXP 	four_blue_stars: autoDraw = True
+78.2044 	EXP 	trial_card: autoDraw = True
+78.2386 	EXP 	fixation: autoDraw = False
+79.0245 	DATA 	Mouse: Left button down, pos=(485,443)
+79.0384 	EXP 	fixation: autoDraw = False
+79.0384 	EXP 	one_red_dot: autoDraw = False
+79.0384 	EXP 	two_yellow_triangles: autoDraw = False
+79.0384 	EXP 	three_green_crosses: autoDraw = False
+79.0384 	EXP 	four_blue_stars: autoDraw = False
+79.0384 	EXP 	trial_card: autoDraw = False
+79.0384 	EXP 	feedback_text: text = 'Correct! '
+79.0384 	EXP 	feedback_text: autoDraw = True
+79.1405 	DATA 	Mouse:  Left button up, pos=(485,443)
+80.0439 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'condition_file': 'colour.xlsx', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+80.1143 	DEBUG 	Read excel file with openpyxl: colour.xlsx
+80.1165 	EXP 	Imported colour.xlsx as conditions, 64 conditions, 3 params
+80.1170 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'rule': 'colour', 'card': 'images/3redTriangles.JPG', 'corrAns': 'images/1redDot.JPG', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+80.1362 	EXP 	feedback_text: autoDraw = False
+80.1362 	EXP 	trial_card: image = 'images/3redTriangles.JPG'
+80.1362 	EXP 	fixation: autoDraw = True
+80.1362 	EXP 	one_red_dot: autoDraw = True
+80.1362 	EXP 	two_yellow_triangles: autoDraw = True
+80.1362 	EXP 	three_green_crosses: autoDraw = True
+80.1362 	EXP 	four_blue_stars: autoDraw = True
+81.0358 	EXP 	trial_card: autoDraw = True
+81.1354 	EXP 	fixation: autoDraw = False
+81.7871 	DATA 	Mouse: Left button down, pos=(485,443)
+81.8027 	EXP 	fixation: autoDraw = False
+81.8027 	EXP 	one_red_dot: autoDraw = False
+81.8027 	EXP 	two_yellow_triangles: autoDraw = False
+81.8027 	EXP 	three_green_crosses: autoDraw = False
+81.8027 	EXP 	four_blue_stars: autoDraw = False
+81.8027 	EXP 	trial_card: autoDraw = False
+81.8027 	EXP 	feedback_text: height = np.float64(0.05)
+81.8027 	EXP 	feedback_text: height = np.float64(0.05)
+81.8027 	EXP 	feedback_text: height = np.float64(0.05)
+81.8027 	EXP 	feedback_text: text = 'Incorrect'
+81.8027 	EXP 	feedback_text: autoDraw = True
+81.8878 	DATA 	Mouse:  Left button up, pos=(485,443)
+82.8022 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'rule': 'colour', 'card': 'images/3greenDots.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+82.8338 	EXP 	feedback_text: autoDraw = False
+82.8338 	EXP 	trial_card: image = 'images/3greenDots.JPG'
+82.8338 	EXP 	fixation: autoDraw = True
+82.8338 	EXP 	one_red_dot: autoDraw = True
+82.8338 	EXP 	two_yellow_triangles: autoDraw = True
+82.8338 	EXP 	three_green_crosses: autoDraw = True
+82.8338 	EXP 	four_blue_stars: autoDraw = True
+83.7999 	EXP 	trial_card: autoDraw = True
+83.8329 	EXP 	fixation: autoDraw = False
+85.2177 	DATA 	Mouse: Left button down, pos=(498,488)
+85.2327 	EXP 	fixation: autoDraw = False
+85.2327 	EXP 	one_red_dot: autoDraw = False
+85.2327 	EXP 	two_yellow_triangles: autoDraw = False
+85.2327 	EXP 	three_green_crosses: autoDraw = False
+85.2327 	EXP 	four_blue_stars: autoDraw = False
+85.2327 	EXP 	trial_card: autoDraw = False
+85.2327 	EXP 	feedback_text: height = np.float64(0.05)
+85.2327 	EXP 	feedback_text: height = np.float64(0.05)
+85.2327 	EXP 	feedback_text: height = np.float64(0.05)
+85.2327 	EXP 	feedback_text: text = 'Correct! '
+85.2327 	EXP 	feedback_text: autoDraw = True
+85.2851 	DATA 	Mouse:  Left button up, pos=(498,488)
+86.2328 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'rule': 'colour', 'card': 'images/4blueDots.jpg', 'corrAns': 'images/4blueStars.JPG', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+86.2642 	EXP 	feedback_text: autoDraw = False
+86.2642 	EXP 	trial_card: image = 'images/4blueDots.jpg'
+86.2642 	EXP 	fixation: autoDraw = True
+86.2642 	EXP 	one_red_dot: autoDraw = True
+86.2642 	EXP 	two_yellow_triangles: autoDraw = True
+86.2642 	EXP 	three_green_crosses: autoDraw = True
+86.2642 	EXP 	four_blue_stars: autoDraw = True
+87.2302 	EXP 	trial_card: autoDraw = True
+87.2640 	EXP 	fixation: autoDraw = False
+88.2824 	DATA 	Mouse: Left button down, pos=(646,446)
+88.2967 	EXP 	fixation: autoDraw = False
+88.2967 	EXP 	one_red_dot: autoDraw = False
+88.2967 	EXP 	two_yellow_triangles: autoDraw = False
+88.2967 	EXP 	three_green_crosses: autoDraw = False
+88.2967 	EXP 	four_blue_stars: autoDraw = False
+88.2967 	EXP 	trial_card: autoDraw = False
+88.2967 	EXP 	feedback_text: text = 'Correct! '
+88.2967 	EXP 	feedback_text: autoDraw = True
+88.3660 	DATA 	Mouse:  Left button up, pos=(646,446)
+89.2971 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'rule': 'colour', 'card': 'images/3yellowCrosses.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+89.3123 	EXP 	feedback_text: autoDraw = False
+89.3123 	EXP 	trial_card: image = 'images/3yellowCrosses.JPG'
+89.3123 	EXP 	fixation: autoDraw = True
+89.3123 	EXP 	one_red_dot: autoDraw = True
+89.3123 	EXP 	two_yellow_triangles: autoDraw = True
+89.3123 	EXP 	three_green_crosses: autoDraw = True
+89.3123 	EXP 	four_blue_stars: autoDraw = True
+90.2944 	EXP 	trial_card: autoDraw = True
+90.3282 	EXP 	fixation: autoDraw = False
+91.2968 	DATA 	Mouse: Left button down, pos=(318,434)
+91.3104 	EXP 	fixation: autoDraw = False
+91.3104 	EXP 	one_red_dot: autoDraw = False
+91.3104 	EXP 	two_yellow_triangles: autoDraw = False
+91.3104 	EXP 	three_green_crosses: autoDraw = False
+91.3104 	EXP 	four_blue_stars: autoDraw = False
+91.3104 	EXP 	trial_card: autoDraw = False
+91.3104 	EXP 	feedback_text: text = 'Correct! '
+91.3104 	EXP 	feedback_text: autoDraw = True
+91.3964 	DATA 	Mouse:  Left button up, pos=(318,434)
+92.3114 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'rule': 'colour', 'card': 'images/2redDots.jpg', 'corrAns': 'images/1redDot.JPG', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+92.3425 	EXP 	feedback_text: autoDraw = False
+92.3425 	EXP 	trial_card: image = 'images/2redDots.jpg'
+92.3425 	EXP 	fixation: autoDraw = True
+92.3425 	EXP 	one_red_dot: autoDraw = True
+92.3425 	EXP 	two_yellow_triangles: autoDraw = True
+92.3425 	EXP 	three_green_crosses: autoDraw = True
+92.3425 	EXP 	four_blue_stars: autoDraw = True
+93.3086 	EXP 	trial_card: autoDraw = True
+93.3420 	EXP 	fixation: autoDraw = False
+94.7440 	DATA 	Mouse: Left button down, pos=(152,416)
+94.7585 	EXP 	fixation: autoDraw = False
+94.7585 	EXP 	one_red_dot: autoDraw = False
+94.7585 	EXP 	two_yellow_triangles: autoDraw = False
+94.7585 	EXP 	three_green_crosses: autoDraw = False
+94.7585 	EXP 	four_blue_stars: autoDraw = False
+94.7585 	EXP 	trial_card: autoDraw = False
+94.7585 	EXP 	feedback_text: text = 'Correct! '
+94.7585 	EXP 	feedback_text: autoDraw = True
+94.8281 	DATA 	Mouse:  Left button up, pos=(152,416)
+95.7586 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'rule': 'colour', 'card': 'images/1yellowDot.jpg', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+95.7894 	EXP 	feedback_text: autoDraw = False
+95.7894 	EXP 	trial_card: image = 'images/1yellowDot.jpg'
+95.7894 	EXP 	fixation: autoDraw = True
+95.7894 	EXP 	one_red_dot: autoDraw = True
+95.7894 	EXP 	two_yellow_triangles: autoDraw = True
+95.7894 	EXP 	three_green_crosses: autoDraw = True
+95.7894 	EXP 	four_blue_stars: autoDraw = True
+96.7570 	EXP 	trial_card: autoDraw = True
+96.7892 	EXP 	fixation: autoDraw = False
+97.7915 	DATA 	Mouse: Left button down, pos=(292,424)
+97.8058 	EXP 	fixation: autoDraw = False
+97.8058 	EXP 	one_red_dot: autoDraw = False
+97.8058 	EXP 	two_yellow_triangles: autoDraw = False
+97.8058 	EXP 	three_green_crosses: autoDraw = False
+97.8058 	EXP 	four_blue_stars: autoDraw = False
+97.8058 	EXP 	trial_card: autoDraw = False
+97.8058 	EXP 	feedback_text: text = 'Correct! '
+97.8058 	EXP 	feedback_text: autoDraw = True
+97.8749 	DATA 	Mouse:  Left button up, pos=(292,424)
+98.8067 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'rule': 'colour', 'card': 'images/1redStar.JPG', 'corrAns': 'images/1redDot.JPG', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+98.8209 	EXP 	feedback_text: autoDraw = False
+98.8209 	EXP 	trial_card: image = 'images/1redStar.JPG'
+98.8209 	EXP 	fixation: autoDraw = True
+98.8209 	EXP 	one_red_dot: autoDraw = True
+98.8209 	EXP 	two_yellow_triangles: autoDraw = True
+98.8209 	EXP 	three_green_crosses: autoDraw = True
+98.8209 	EXP 	four_blue_stars: autoDraw = True
+99.8032 	EXP 	trial_card: autoDraw = True
+99.8368 	EXP 	fixation: autoDraw = False
+100.5566 	DATA 	Mouse: Left button down, pos=(143,449)
+100.5707 	EXP 	fixation: autoDraw = False
+100.5707 	EXP 	one_red_dot: autoDraw = False
+100.5707 	EXP 	two_yellow_triangles: autoDraw = False
+100.5707 	EXP 	three_green_crosses: autoDraw = False
+100.5707 	EXP 	four_blue_stars: autoDraw = False
+100.5707 	EXP 	trial_card: autoDraw = False
+100.5707 	EXP 	feedback_text: text = 'Correct! '
+100.5707 	EXP 	feedback_text: autoDraw = True
+100.6401 	DATA 	Mouse:  Left button up, pos=(143,449)
+101.5768 	EXP 	New trial (rep=1, index=0): <Trial 3 (0 in rep 1) data={'condition_file': 'shape.xlsx', 'thisN': 3, 'thisTrialN': 0, 'thisRepN': 1}>
+101.5867 	DEBUG 	Read excel file with openpyxl: shape.xlsx
+101.5895 	EXP 	Imported shape.xlsx as conditions, 64 conditions, 3 params
+101.5902 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'rule': 'shape', 'card': 'images/3redStars.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+101.6184 	EXP 	feedback_text: autoDraw = False
+101.6184 	EXP 	trial_card: image = 'images/3redStars.JPG'
+101.6184 	EXP 	fixation: autoDraw = True
+101.6184 	EXP 	one_red_dot: autoDraw = True
+101.6184 	EXP 	two_yellow_triangles: autoDraw = True
+101.6184 	EXP 	three_green_crosses: autoDraw = True
+101.6184 	EXP 	four_blue_stars: autoDraw = True
+102.5680 	EXP 	trial_card: autoDraw = True
+102.6180 	EXP 	fixation: autoDraw = False
+103.4709 	DATA 	Mouse: Left button down, pos=(103,420)
+103.4845 	EXP 	fixation: autoDraw = False
+103.4845 	EXP 	one_red_dot: autoDraw = False
+103.4845 	EXP 	two_yellow_triangles: autoDraw = False
+103.4845 	EXP 	three_green_crosses: autoDraw = False
+103.4845 	EXP 	four_blue_stars: autoDraw = False
+103.4845 	EXP 	trial_card: autoDraw = False
+103.4845 	EXP 	feedback_text: height = np.float64(0.05)
+103.4845 	EXP 	feedback_text: height = np.float64(0.05)
+103.4845 	EXP 	feedback_text: height = np.float64(0.05)
+103.4845 	EXP 	feedback_text: text = 'Incorrect'
+103.4845 	EXP 	feedback_text: autoDraw = True
+103.5376 	DATA 	Mouse:  Left button up, pos=(103,420)
+104.4845 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'rule': 'shape', 'card': 'images/2greenTriangles.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+104.5160 	EXP 	feedback_text: autoDraw = False
+104.5160 	EXP 	trial_card: image = 'images/2greenTriangles.JPG'
+104.5160 	EXP 	fixation: autoDraw = True
+104.5160 	EXP 	one_red_dot: autoDraw = True
+104.5160 	EXP 	two_yellow_triangles: autoDraw = True
+104.5160 	EXP 	three_green_crosses: autoDraw = True
+104.5160 	EXP 	four_blue_stars: autoDraw = True
+105.4818 	EXP 	trial_card: autoDraw = True
+105.5160 	EXP 	fixation: autoDraw = False
+106.9853 	DATA 	Mouse: Left button down, pos=(271,437)
+106.9981 	EXP 	fixation: autoDraw = False
+106.9981 	EXP 	one_red_dot: autoDraw = False
+106.9981 	EXP 	two_yellow_triangles: autoDraw = False
+106.9981 	EXP 	three_green_crosses: autoDraw = False
+106.9981 	EXP 	four_blue_stars: autoDraw = False
+106.9981 	EXP 	trial_card: autoDraw = False
+106.9981 	EXP 	feedback_text: height = np.float64(0.05)
+106.9981 	EXP 	feedback_text: height = np.float64(0.05)
+106.9981 	EXP 	feedback_text: height = np.float64(0.05)
+106.9981 	EXP 	feedback_text: text = 'Correct! '
+106.9981 	EXP 	feedback_text: autoDraw = True
+107.0518 	DATA 	Mouse:  Left button up, pos=(271,437)
+107.9985 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'rule': 'shape', 'card': 'images/1blueTriangle.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+108.0298 	EXP 	feedback_text: autoDraw = False
+108.0298 	EXP 	trial_card: image = 'images/1blueTriangle.JPG'
+108.0298 	EXP 	fixation: autoDraw = True
+108.0298 	EXP 	one_red_dot: autoDraw = True
+108.0298 	EXP 	two_yellow_triangles: autoDraw = True
+108.0298 	EXP 	three_green_crosses: autoDraw = True
+108.0298 	EXP 	four_blue_stars: autoDraw = True
+108.9956 	EXP 	trial_card: autoDraw = True
+109.0290 	EXP 	fixation: autoDraw = False
+110.2646 	DATA 	Mouse: Left button down, pos=(152,447)
+110.2790 	EXP 	fixation: autoDraw = False
+110.2790 	EXP 	one_red_dot: autoDraw = False
+110.2790 	EXP 	two_yellow_triangles: autoDraw = False
+110.2790 	EXP 	three_green_crosses: autoDraw = False
+110.2790 	EXP 	four_blue_stars: autoDraw = False
+110.2790 	EXP 	trial_card: autoDraw = False
+110.2790 	EXP 	feedback_text: height = np.float64(0.05)
+110.2790 	EXP 	feedback_text: height = np.float64(0.05)
+110.2790 	EXP 	feedback_text: height = np.float64(0.05)
+110.2790 	EXP 	feedback_text: text = 'Incorrect'
+110.2790 	EXP 	feedback_text: autoDraw = True
+110.3307 	DATA 	Mouse:  Left button up, pos=(152,447)
+111.2796 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'rule': 'shape', 'card': 'images/4greenDots.jpg', 'corrAns': 'images/1redDot.JPG', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+111.2941 	EXP 	feedback_text: autoDraw = False
+111.2941 	EXP 	trial_card: image = 'images/4greenDots.jpg'
+111.2941 	EXP 	fixation: autoDraw = True
+111.2941 	EXP 	one_red_dot: autoDraw = True
+111.2941 	EXP 	two_yellow_triangles: autoDraw = True
+111.2941 	EXP 	three_green_crosses: autoDraw = True
+111.2941 	EXP 	four_blue_stars: autoDraw = True
+112.2772 	EXP 	trial_card: autoDraw = True
+112.2935 	EXP 	fixation: autoDraw = False
+112.9793 	DATA 	Mouse: Left button down, pos=(525,450)
+112.9936 	EXP 	fixation: autoDraw = False
+112.9936 	EXP 	one_red_dot: autoDraw = False
+112.9936 	EXP 	two_yellow_triangles: autoDraw = False
+112.9936 	EXP 	three_green_crosses: autoDraw = False
+112.9936 	EXP 	four_blue_stars: autoDraw = False
+112.9936 	EXP 	trial_card: autoDraw = False
+112.9936 	EXP 	feedback_text: text = 'Incorrect'
+112.9936 	EXP 	feedback_text: autoDraw = True
+113.0622 	DATA 	Mouse:  Left button up, pos=(525,450)
+113.9942 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'rule': 'shape', 'card': 'images/4blueTriangles.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+114.0251 	EXP 	feedback_text: autoDraw = False
+114.0251 	EXP 	trial_card: image = 'images/4blueTriangles.JPG'
+114.0251 	EXP 	fixation: autoDraw = True
+114.0251 	EXP 	one_red_dot: autoDraw = True
+114.0251 	EXP 	two_yellow_triangles: autoDraw = True
+114.0251 	EXP 	three_green_crosses: autoDraw = True
+114.0251 	EXP 	four_blue_stars: autoDraw = True
+114.9910 	EXP 	trial_card: autoDraw = True
+115.0240 	EXP 	fixation: autoDraw = False
+116.2616 	DATA 	Mouse: Left button down, pos=(319,445)
+116.2753 	EXP 	fixation: autoDraw = False
+116.2753 	EXP 	one_red_dot: autoDraw = False
+116.2753 	EXP 	two_yellow_triangles: autoDraw = False
+116.2753 	EXP 	three_green_crosses: autoDraw = False
+116.2753 	EXP 	four_blue_stars: autoDraw = False
+116.2753 	EXP 	trial_card: autoDraw = False
+116.2753 	EXP 	feedback_text: height = np.float64(0.05)
+116.2753 	EXP 	feedback_text: height = np.float64(0.05)
+116.2753 	EXP 	feedback_text: height = np.float64(0.05)
+116.2753 	EXP 	feedback_text: text = 'Correct! '
+116.2753 	EXP 	feedback_text: autoDraw = True
+116.3263 	DATA 	Mouse:  Left button up, pos=(319,445)
+117.2746 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'rule': 'shape', 'card': 'images/4greenTriangles.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+117.3051 	EXP 	feedback_text: autoDraw = False
+117.3051 	EXP 	trial_card: image = 'images/4greenTriangles.JPG'
+117.3051 	EXP 	fixation: autoDraw = True
+117.3051 	EXP 	one_red_dot: autoDraw = True
+117.3051 	EXP 	two_yellow_triangles: autoDraw = True
+117.3051 	EXP 	three_green_crosses: autoDraw = True
+117.3051 	EXP 	four_blue_stars: autoDraw = True
+118.2715 	EXP 	trial_card: autoDraw = True
+118.3047 	EXP 	fixation: autoDraw = False
+119.1251 	DATA 	Mouse: Left button down, pos=(326,444)
+119.1378 	EXP 	fixation: autoDraw = False
+119.1378 	EXP 	one_red_dot: autoDraw = False
+119.1378 	EXP 	two_yellow_triangles: autoDraw = False
+119.1378 	EXP 	three_green_crosses: autoDraw = False
+119.1378 	EXP 	four_blue_stars: autoDraw = False
+119.1378 	EXP 	trial_card: autoDraw = False
+119.1378 	EXP 	feedback_text: text = 'Correct! '
+119.1378 	EXP 	feedback_text: autoDraw = True
+119.1899 	DATA 	Mouse:  Left button up, pos=(326,444)
+120.1382 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'rule': 'shape', 'card': 'images/1yellowTriangle.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+120.1694 	EXP 	feedback_text: autoDraw = False
+120.1694 	EXP 	trial_card: image = 'images/1yellowTriangle.JPG'
+120.1694 	EXP 	fixation: autoDraw = True
+120.1694 	EXP 	one_red_dot: autoDraw = True
+120.1694 	EXP 	two_yellow_triangles: autoDraw = True
+120.1694 	EXP 	three_green_crosses: autoDraw = True
+120.1694 	EXP 	four_blue_stars: autoDraw = True
+121.1357 	EXP 	trial_card: autoDraw = True
+121.1688 	EXP 	fixation: autoDraw = False
+121.8395 	DATA 	Mouse: Left button down, pos=(326,444)
+121.8515 	EXP 	fixation: autoDraw = False
+121.8515 	EXP 	one_red_dot: autoDraw = False
+121.8515 	EXP 	two_yellow_triangles: autoDraw = False
+121.8515 	EXP 	three_green_crosses: autoDraw = False
+121.8515 	EXP 	four_blue_stars: autoDraw = False
+121.8515 	EXP 	trial_card: autoDraw = False
+121.8515 	EXP 	feedback_text: text = 'Correct! '
+121.8515 	EXP 	feedback_text: autoDraw = True
+121.9053 	DATA 	Mouse:  Left button up, pos=(326,444)
+122.8393 	EXP 	New trial (rep=1, index=1): <Trial 4 (1 in rep 1) data={'condition_file': 'colour.xlsx', 'thisN': 4, 'thisTrialN': 1, 'thisRepN': 1}>
+122.8475 	DEBUG 	Read excel file with openpyxl: colour.xlsx
+122.8504 	EXP 	Imported colour.xlsx as conditions, 64 conditions, 3 params
+122.8510 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'rule': 'colour', 'card': 'images/2blueDots.jpg', 'corrAns': 'images/4blueStars.JPG', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+122.8838 	EXP 	feedback_text: autoDraw = False
+122.8838 	EXP 	feedback_text: autoDraw = False
+122.8838 	EXP 	trial_card: image = 'images/2blueDots.jpg'
+122.8838 	EXP 	fixation: autoDraw = True
+122.8838 	EXP 	one_red_dot: autoDraw = True
+122.8838 	EXP 	two_yellow_triangles: autoDraw = True
+122.8838 	EXP 	three_green_crosses: autoDraw = True
+122.8838 	EXP 	four_blue_stars: autoDraw = True
+123.8499 	EXP 	trial_card: autoDraw = True
+123.8835 	EXP 	fixation: autoDraw = False
+125.1680 	DATA 	Mouse: Left button down, pos=(157,445)
+125.1831 	EXP 	fixation: autoDraw = False
+125.1831 	EXP 	one_red_dot: autoDraw = False
+125.1831 	EXP 	two_yellow_triangles: autoDraw = False
+125.1831 	EXP 	three_green_crosses: autoDraw = False
+125.1831 	EXP 	four_blue_stars: autoDraw = False
+125.1831 	EXP 	trial_card: autoDraw = False
+125.1831 	EXP 	feedback_text: height = np.float64(0.05)
+125.1831 	EXP 	feedback_text: height = np.float64(0.05)
+125.1831 	EXP 	feedback_text: height = np.float64(0.05)
+125.1831 	EXP 	feedback_text: text = 'Incorrect'
+125.1831 	EXP 	feedback_text: autoDraw = True
+125.2677 	DATA 	Mouse:  Left button up, pos=(157,445)
+126.1835 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'rule': 'colour', 'card': 'images/2yellowDots.jpg', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+126.2148 	EXP 	feedback_text: autoDraw = False
+126.2148 	EXP 	trial_card: image = 'images/2yellowDots.jpg'
+126.2148 	EXP 	fixation: autoDraw = True
+126.2148 	EXP 	one_red_dot: autoDraw = True
+126.2148 	EXP 	two_yellow_triangles: autoDraw = True
+126.2148 	EXP 	three_green_crosses: autoDraw = True
+126.2148 	EXP 	four_blue_stars: autoDraw = True
+127.1807 	EXP 	trial_card: autoDraw = True
+127.2148 	EXP 	fixation: autoDraw = False
+128.5153 	DATA 	Mouse: Left button down, pos=(295,445)
+128.5311 	EXP 	fixation: autoDraw = False
+128.5311 	EXP 	one_red_dot: autoDraw = False
+128.5311 	EXP 	two_yellow_triangles: autoDraw = False
+128.5311 	EXP 	three_green_crosses: autoDraw = False
+128.5311 	EXP 	four_blue_stars: autoDraw = False
+128.5311 	EXP 	trial_card: autoDraw = False
+128.5311 	EXP 	feedback_text: height = np.float64(0.05)
+128.5311 	EXP 	feedback_text: height = np.float64(0.05)
+128.5311 	EXP 	feedback_text: height = np.float64(0.05)
+128.5311 	EXP 	feedback_text: text = 'Correct! '
+128.5311 	EXP 	feedback_text: autoDraw = True
+128.5987 	DATA 	Mouse:  Left button up, pos=(295,445)
+129.5308 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'rule': 'colour', 'card': 'images/1greenTriangle.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+129.5617 	EXP 	feedback_text: autoDraw = False
+129.5617 	EXP 	trial_card: image = 'images/1greenTriangle.JPG'
+129.5617 	EXP 	fixation: autoDraw = True
+129.5617 	EXP 	one_red_dot: autoDraw = True
+129.5617 	EXP 	two_yellow_triangles: autoDraw = True
+129.5617 	EXP 	three_green_crosses: autoDraw = True
+129.5617 	EXP 	four_blue_stars: autoDraw = True
+130.5280 	EXP 	trial_card: autoDraw = True
+130.5616 	EXP 	fixation: autoDraw = False
+133.0819 	DATA 	Mouse: Left button down, pos=(476,441)
+133.0931 	EXP 	fixation: autoDraw = False
+133.0931 	EXP 	one_red_dot: autoDraw = False
+133.0931 	EXP 	two_yellow_triangles: autoDraw = False
+133.0931 	EXP 	three_green_crosses: autoDraw = False
+133.0931 	EXP 	four_blue_stars: autoDraw = False
+133.0931 	EXP 	trial_card: autoDraw = False
+133.0931 	EXP 	feedback_text: text = 'Correct! '
+133.0931 	EXP 	feedback_text: autoDraw = True
+133.1624 	DATA 	Mouse:  Left button up, pos=(476,441)
+134.0775 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'rule': 'colour', 'card': 'images/1yellowStar.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+134.0919 	EXP 	feedback_text: autoDraw = False
+134.0919 	EXP 	feedback_text: autoDraw = False
+134.0919 	EXP 	trial_card: image = 'images/1yellowStar.JPG'
+134.0919 	EXP 	fixation: autoDraw = True
+134.0919 	EXP 	one_red_dot: autoDraw = True
+134.0919 	EXP 	two_yellow_triangles: autoDraw = True
+134.0919 	EXP 	three_green_crosses: autoDraw = True
+134.0919 	EXP 	four_blue_stars: autoDraw = True
+135.0911 	EXP 	trial_card: autoDraw = True
+135.1077 	EXP 	fixation: autoDraw = False
+135.9255 	DATA 	Mouse: Left button down, pos=(362,467)
+135.9418 	EXP 	fixation: autoDraw = False
+135.9418 	EXP 	one_red_dot: autoDraw = False
+135.9418 	EXP 	two_yellow_triangles: autoDraw = False
+135.9418 	EXP 	three_green_crosses: autoDraw = False
+135.9418 	EXP 	four_blue_stars: autoDraw = False
+135.9418 	EXP 	trial_card: autoDraw = False
+135.9418 	EXP 	feedback_text: text = 'Correct! '
+135.9418 	EXP 	feedback_text: autoDraw = True
+135.9931 	DATA 	Mouse:  Left button up, pos=(362,467)
+136.9410 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'rule': 'colour', 'card': 'images/4redCrosses.JPG', 'corrAns': 'images/1redDot.JPG', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+136.9563 	EXP 	feedback_text: autoDraw = False
+136.9563 	EXP 	trial_card: image = 'images/4redCrosses.JPG'
+136.9563 	EXP 	fixation: autoDraw = True
+136.9563 	EXP 	one_red_dot: autoDraw = True
+136.9563 	EXP 	two_yellow_triangles: autoDraw = True
+136.9563 	EXP 	three_green_crosses: autoDraw = True
+136.9563 	EXP 	four_blue_stars: autoDraw = True
+137.9385 	EXP 	trial_card: autoDraw = True
+137.9718 	EXP 	fixation: autoDraw = False
+139.1579 	DATA 	Mouse: Left button down, pos=(139,418)
+139.1712 	EXP 	fixation: autoDraw = False
+139.1712 	EXP 	one_red_dot: autoDraw = False
+139.1712 	EXP 	two_yellow_triangles: autoDraw = False
+139.1712 	EXP 	three_green_crosses: autoDraw = False
+139.1712 	EXP 	four_blue_stars: autoDraw = False
+139.1712 	EXP 	trial_card: autoDraw = False
+139.1712 	EXP 	feedback_text: text = 'Correct! '
+139.1712 	EXP 	feedback_text: autoDraw = True
+139.2233 	DATA 	Mouse:  Left button up, pos=(139,418)
+140.1716 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'rule': 'colour', 'card': 'images/2redDots.jpg', 'corrAns': 'images/1redDot.JPG', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+140.1868 	EXP 	feedback_text: autoDraw = False
+140.1868 	EXP 	trial_card: image = 'images/2redDots.jpg'
+140.1868 	EXP 	fixation: autoDraw = True
+140.1868 	EXP 	one_red_dot: autoDraw = True
+140.1868 	EXP 	two_yellow_triangles: autoDraw = True
+140.1868 	EXP 	three_green_crosses: autoDraw = True
+140.1868 	EXP 	four_blue_stars: autoDraw = True
+141.1694 	EXP 	trial_card: autoDraw = True
+141.1858 	EXP 	fixation: autoDraw = False
+142.3208 	DATA 	Mouse: Left button down, pos=(175,413)
+142.3361 	EXP 	fixation: autoDraw = False
+142.3361 	EXP 	one_red_dot: autoDraw = False
+142.3361 	EXP 	two_yellow_triangles: autoDraw = False
+142.3361 	EXP 	three_green_crosses: autoDraw = False
+142.3361 	EXP 	four_blue_stars: autoDraw = False
+142.3361 	EXP 	trial_card: autoDraw = False
+142.3361 	EXP 	feedback_text: text = 'Correct! '
+142.3361 	EXP 	feedback_text: autoDraw = True
+142.4391 	DATA 	Mouse:  Left button up, pos=(175,413)
+143.3363 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'rule': 'colour', 'card': 'images/4yellowStars.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+143.3671 	EXP 	feedback_text: autoDraw = False
+143.3671 	EXP 	trial_card: image = 'images/4yellowStars.JPG'
+143.3671 	EXP 	fixation: autoDraw = True
+143.3671 	EXP 	one_red_dot: autoDraw = True
+143.3671 	EXP 	two_yellow_triangles: autoDraw = True
+143.3671 	EXP 	three_green_crosses: autoDraw = True
+143.3671 	EXP 	four_blue_stars: autoDraw = True
+144.3335 	EXP 	trial_card: autoDraw = True
+144.3664 	EXP 	fixation: autoDraw = False
+145.0360 	DATA 	Mouse: Left button down, pos=(266,422)
+145.0497 	EXP 	fixation: autoDraw = False
+145.0497 	EXP 	one_red_dot: autoDraw = False
+145.0497 	EXP 	two_yellow_triangles: autoDraw = False
+145.0497 	EXP 	three_green_crosses: autoDraw = False
+145.0497 	EXP 	four_blue_stars: autoDraw = False
+145.0497 	EXP 	trial_card: autoDraw = False
+145.0497 	EXP 	feedback_text: text = 'Correct! '
+145.0497 	EXP 	feedback_text: autoDraw = True
+145.1347 	DATA 	Mouse:  Left button up, pos=(266,422)
+146.0518 	EXP 	New trial (rep=1, index=2): <Trial 5 (2 in rep 1) data={'condition_file': 'number.xlsx', 'thisN': 5, 'thisTrialN': 2, 'thisRepN': 1}>
+146.0585 	DEBUG 	Read excel file with openpyxl: number.xlsx
+146.0606 	EXP 	Imported number.xlsx as conditions, 64 conditions, 3 params
+146.0612 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'rule': 'number', 'card': 'images/4greenCrosses.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+146.0982 	EXP 	feedback_text: autoDraw = False
+146.0982 	EXP 	trial_card: image = 'images/4greenCrosses.JPG'
+146.0982 	EXP 	fixation: autoDraw = True
+146.0982 	EXP 	one_red_dot: autoDraw = True
+146.0982 	EXP 	two_yellow_triangles: autoDraw = True
+146.0982 	EXP 	three_green_crosses: autoDraw = True
+146.0982 	EXP 	four_blue_stars: autoDraw = True
+147.0481 	EXP 	trial_card: autoDraw = True
+147.0977 	EXP 	fixation: autoDraw = False
+148.0853 	DATA 	Mouse: Left button down, pos=(513,453)
+148.0974 	EXP 	fixation: autoDraw = False
+148.0974 	EXP 	one_red_dot: autoDraw = False
+148.0974 	EXP 	two_yellow_triangles: autoDraw = False
+148.0974 	EXP 	three_green_crosses: autoDraw = False
+148.0974 	EXP 	four_blue_stars: autoDraw = False
+148.0974 	EXP 	trial_card: autoDraw = False
+148.0974 	EXP 	feedback_text: height = np.float64(0.05)
+148.0974 	EXP 	feedback_text: height = np.float64(0.05)
+148.0974 	EXP 	feedback_text: height = np.float64(0.05)
+148.0974 	EXP 	feedback_text: text = 'Incorrect'
+148.0974 	EXP 	feedback_text: autoDraw = True
+148.1501 	DATA 	Mouse:  Left button up, pos=(513,453)
+149.0980 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'rule': 'number', 'card': 'images/4yellowCrosses.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+149.1290 	EXP 	feedback_text: autoDraw = False
+149.1290 	EXP 	trial_card: image = 'images/4yellowCrosses.JPG'
+149.1290 	EXP 	fixation: autoDraw = True
+149.1290 	EXP 	one_red_dot: autoDraw = True
+149.1290 	EXP 	two_yellow_triangles: autoDraw = True
+149.1290 	EXP 	three_green_crosses: autoDraw = True
+149.1290 	EXP 	four_blue_stars: autoDraw = True
+150.0951 	EXP 	trial_card: autoDraw = True
+150.1284 	EXP 	fixation: autoDraw = False
+152.1820 	DATA 	Mouse: Left button down, pos=(661,460)
+152.1953 	EXP 	fixation: autoDraw = False
+152.1953 	EXP 	one_red_dot: autoDraw = False
+152.1953 	EXP 	two_yellow_triangles: autoDraw = False
+152.1953 	EXP 	three_green_crosses: autoDraw = False
+152.1953 	EXP 	four_blue_stars: autoDraw = False
+152.1953 	EXP 	trial_card: autoDraw = False
+152.1953 	EXP 	feedback_text: height = np.float64(0.05)
+152.1953 	EXP 	feedback_text: height = np.float64(0.05)
+152.1953 	EXP 	feedback_text: height = np.float64(0.05)
+152.1953 	EXP 	feedback_text: text = 'Correct! '
+152.1953 	EXP 	feedback_text: autoDraw = True
+152.2803 	DATA 	Mouse:  Left button up, pos=(661,460)
+153.1947 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'rule': 'number', 'card': 'images/2greenCrosses.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+153.2257 	EXP 	feedback_text: autoDraw = False
+153.2257 	EXP 	trial_card: image = 'images/2greenCrosses.JPG'
+153.2257 	EXP 	fixation: autoDraw = True
+153.2257 	EXP 	one_red_dot: autoDraw = True
+153.2257 	EXP 	two_yellow_triangles: autoDraw = True
+153.2257 	EXP 	three_green_crosses: autoDraw = True
+153.2257 	EXP 	four_blue_stars: autoDraw = True
+154.1929 	EXP 	trial_card: autoDraw = True
+154.2251 	EXP 	fixation: autoDraw = False
+155.0273 	DATA 	Mouse: Left button down, pos=(329,457)
+155.0417 	EXP 	fixation: autoDraw = False
+155.0417 	EXP 	one_red_dot: autoDraw = False
+155.0417 	EXP 	two_yellow_triangles: autoDraw = False
+155.0417 	EXP 	three_green_crosses: autoDraw = False
+155.0417 	EXP 	four_blue_stars: autoDraw = False
+155.0417 	EXP 	trial_card: autoDraw = False
+155.0417 	EXP 	feedback_text: text = 'Correct! '
+155.0417 	EXP 	feedback_text: autoDraw = True
+155.1275 	DATA 	Mouse:  Left button up, pos=(329,457)
+156.0422 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'rule': 'number', 'card': 'images/2yellowStars.JPG', 'corrAns': 'images/2yellowTriangles.JPG', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+156.0572 	EXP 	feedback_text: autoDraw = False
+156.0572 	EXP 	trial_card: image = 'images/2yellowStars.JPG'
+156.0572 	EXP 	fixation: autoDraw = True
+156.0572 	EXP 	one_red_dot: autoDraw = True
+156.0572 	EXP 	two_yellow_triangles: autoDraw = True
+156.0572 	EXP 	three_green_crosses: autoDraw = True
+156.0572 	EXP 	four_blue_stars: autoDraw = True
+157.0399 	EXP 	trial_card: autoDraw = True
+157.0561 	EXP 	fixation: autoDraw = False
+157.6931 	DATA 	Mouse: Left button down, pos=(330,447)
+157.7053 	EXP 	fixation: autoDraw = False
+157.7053 	EXP 	one_red_dot: autoDraw = False
+157.7053 	EXP 	two_yellow_triangles: autoDraw = False
+157.7053 	EXP 	three_green_crosses: autoDraw = False
+157.7053 	EXP 	four_blue_stars: autoDraw = False
+157.7053 	EXP 	trial_card: autoDraw = False
+157.7053 	EXP 	feedback_text: text = 'Correct! '
+157.7053 	EXP 	feedback_text: autoDraw = True
+157.7759 	DATA 	Mouse:  Left button up, pos=(330,447)
+158.6897 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'rule': 'number', 'card': 'images/3blueTriangles.JPG', 'corrAns': 'images/3greenCrosses.JPG', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+158.7211 	EXP 	feedback_text: autoDraw = False
+158.7211 	EXP 	feedback_text: autoDraw = False
+158.7211 	EXP 	trial_card: image = 'images/3blueTriangles.JPG'
+158.7211 	EXP 	fixation: autoDraw = True
+158.7211 	EXP 	one_red_dot: autoDraw = True
+158.7211 	EXP 	two_yellow_triangles: autoDraw = True
+158.7211 	EXP 	three_green_crosses: autoDraw = True
+158.7211 	EXP 	four_blue_stars: autoDraw = True
+159.7041 	EXP 	trial_card: autoDraw = True
+159.7206 	EXP 	fixation: autoDraw = False
+160.8885 	DATA 	Mouse: Left button down, pos=(472,455)
+160.9040 	EXP 	fixation: autoDraw = False
+160.9040 	EXP 	one_red_dot: autoDraw = False
+160.9040 	EXP 	two_yellow_triangles: autoDraw = False
+160.9040 	EXP 	three_green_crosses: autoDraw = False
+160.9040 	EXP 	four_blue_stars: autoDraw = False
+160.9040 	EXP 	trial_card: autoDraw = False
+160.9040 	EXP 	feedback_text: text = 'Correct! '
+160.9040 	EXP 	feedback_text: autoDraw = True
+160.9883 	DATA 	Mouse:  Left button up, pos=(472,455)
+161.9046 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'rule': 'number', 'card': 'images/4blueTriangles.JPG', 'corrAns': 'images/4blueStars.JPG', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+161.9191 	EXP 	feedback_text: autoDraw = False
+161.9191 	EXP 	trial_card: image = 'images/4blueTriangles.JPG'
+161.9191 	EXP 	fixation: autoDraw = True
+161.9191 	EXP 	one_red_dot: autoDraw = True
+161.9191 	EXP 	two_yellow_triangles: autoDraw = True
+161.9191 	EXP 	three_green_crosses: autoDraw = True
+161.9191 	EXP 	four_blue_stars: autoDraw = True
+162.9014 	EXP 	trial_card: autoDraw = True
+162.9345 	EXP 	fixation: autoDraw = False
+164.2187 	DATA 	Mouse: Left button down, pos=(663,462)
+164.2344 	EXP 	fixation: autoDraw = False
+164.2344 	EXP 	one_red_dot: autoDraw = False
+164.2344 	EXP 	two_yellow_triangles: autoDraw = False
+164.2344 	EXP 	three_green_crosses: autoDraw = False
+164.2344 	EXP 	four_blue_stars: autoDraw = False
+164.2344 	EXP 	trial_card: autoDraw = False
+164.2344 	EXP 	feedback_text: text = 'Correct! '
+164.2344 	EXP 	feedback_text: autoDraw = True
+164.2868 	DATA 	Mouse:  Left button up, pos=(663,462)
+165.2347 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'rule': 'number', 'card': 'images/4greenDots.jpg', 'corrAns': 'images/4blueStars.JPG', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+165.2496 	EXP 	feedback_text: autoDraw = False
+165.2496 	EXP 	trial_card: image = 'images/4greenDots.jpg'
+165.2496 	EXP 	fixation: autoDraw = True
+165.2496 	EXP 	one_red_dot: autoDraw = True
+165.2496 	EXP 	two_yellow_triangles: autoDraw = True
+165.2496 	EXP 	three_green_crosses: autoDraw = True
+165.2496 	EXP 	four_blue_stars: autoDraw = True
+166.2331 	EXP 	trial_card: autoDraw = True
+166.2487 	EXP 	fixation: autoDraw = False
+167.2009 	DATA 	Mouse: Left button down, pos=(679,451)
+167.2144 	EXP 	fixation: autoDraw = False
+167.2144 	EXP 	one_red_dot: autoDraw = False
+167.2144 	EXP 	two_yellow_triangles: autoDraw = False
+167.2144 	EXP 	three_green_crosses: autoDraw = False
+167.2144 	EXP 	four_blue_stars: autoDraw = False
+167.2144 	EXP 	trial_card: autoDraw = False
+167.2144 	EXP 	feedback_text: text = 'Correct! '
+167.2144 	EXP 	feedback_text: autoDraw = True
+167.2834 	DATA 	Mouse:  Left button up, pos=(679,451)
+168.2135 	EXP 	feedback_text: autoDraw = False
+168.2135 	EXP 	feedback_text: autoDraw = False
+168.2135 	EXP 	thank_you: autoDraw = True
+171.2281 	EXP 	thank_you: autoDraw = False
+171.2317 	EXP 	Wisconsin Card Sorting Task: status = STOPPED
+171.2515 	INFO 	saved data to 'C:\\Users\\nadim\\Desktop\\N-back tests\\2back_wcst\\wisconsin-card-sorting-task-master\\data\\2_Wisconsin Card Sorting Task_2026-04-27_07h58.56.339.csv'
+171.2548 	INFO 	saved data to C:\Users\nadim\Desktop\N-back tests\2back_wcst\wisconsin-card-sorting-task-master\data\2_Wisconsin Card Sorting Task_2026-04-27_07h58.56.339.psydat
+171.5223 	DEBUG 	Saving data for Wisconsin Card Sorting Task ExperimentHandler
+171.5260 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+171.6201 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+171.6201 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
